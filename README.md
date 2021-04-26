@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dupim-moriki-621460121/)](https://www.linkedin.com/in/bruno-dupim-moriki-621460121/)
+
 <!--
 **bdmoriki/bdmoriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
