@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasrs&layout=compact&theme=onedark" />
+        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdmoriki&layout=compact&theme=onedark" />
         <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=bdmoriki&theme=onedark&show_icons=true" />
     </td>
   </tr>
