@@ -5,20 +5,11 @@
 </p>
 
 
-<table>
-  <tr>
-    <td>
-        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdmoriki&layout=compact&theme=onedark" /> <br>
-        <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=bdmoriki&theme=onedark&show_icons=true" />
-    </td>
-  </tr>
-</table>
-
 ##
 <p align="center">
 <a href="https://github.com/bdmoriki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bdmoriki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bdmoriki&layout=compact&langs_count=8&theme=algolia"/>
+        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdmoriki&layout=compact&theme=onedark" /> <br>
+        <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=bdmoriki&theme=onedark&show_icons=true" />
 </a>
 </p>
 
