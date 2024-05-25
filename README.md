@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="[https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://tenor.com/bAgsf.gif)" width="350">
+</p>
+
+![Snake animation](https://github.com/bdmoriki/bdmoriki/blob/output/github-contribution-grid-snake.svg)
 
 <table>
   <tr>
