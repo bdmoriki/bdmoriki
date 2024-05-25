@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div dsplay="inline-block">
+
+ 
+ <h1 align="left">Bruno Dupim Moriki</h1>
+  <a href="https://www.linkedin.com/in/bruno-dupim-moriki-621460121/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+
+</div>
+
 <p align="center">
   <img src="https://github.com/bdmoriki/bdmoriki/blob/main/golden-boy-fake-keyboard-programing-coding-paper-book.gif", width="350">
 </p>
