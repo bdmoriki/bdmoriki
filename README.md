@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://github.com/bdmoriki">
         <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdmoriki&layout=compact&theme=onedark" /> <br>
+  <br/>
         <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=bdmoriki&theme=onedark&show_icons=true" />
 </a>
 </p>
