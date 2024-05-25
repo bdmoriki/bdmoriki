@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+https://github.com/bdmoriki/golden-boy-fake-keyboard-programing-coding-paper-book.gif
 <p align="center">
-  <img src="https://tenor.com/bAgsf.gif", width="350">
+  <img src="https://github.com/bdmoriki/golden-boy-fake-keyboard-programing-coding-paper-book.gif", width="350">
 </p>
 
 
