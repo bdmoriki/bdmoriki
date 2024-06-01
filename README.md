@@ -36,9 +36,9 @@
 <!--
 <img width="200px" align="right" src="">
 -->
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" title = "GO"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "GO"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" title = "Go"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "Kotlin"/></code>
 
 
 ##
