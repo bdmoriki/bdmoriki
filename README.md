@@ -14,10 +14,12 @@
 
 ## Olá...
 
-<code><img width="40px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Cloud-Practitioner.png"/></code>
-<code><img width="40px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Developer-Associate.png"/></code>
-<code><img width="40px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Associate.png></code>
-<code><img width="40px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Data-Engineer-Associate.png></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Cloud-Practitioner.png"/></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Developer-Associate.png"/></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Associate.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-SysOps-Administrator-Associate.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Data-Engineer-Associate.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Professional.png"></code>
 
 <p align="center">
   <img src="https://github.com/bdmoriki/bdmoriki/blob/main/img/golden-boy-fake-keyboard-programing-coding-paper-book.gif", width="350">
