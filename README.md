@@ -28,7 +28,8 @@
 <code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-SysOps-Administrator-Associate.png"></code>
 <code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Data-Engineer-Associate.png"></code>
 <code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Professional.png"></code>
-<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/Oracle_Associates_Badge__1_.png"></code>
+<code><img width="90px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/Oracle_Associates_Badge__1_.png"></code>
+
 <br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
