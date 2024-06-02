@@ -22,12 +22,12 @@
 
 ### :scroll: Certificações: 
 
-<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Cloud-Practitioner.png"/></code>
-<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Developer-Associate.png"/></code>
-<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Associate.png"></code>
-<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-SysOps-Administrator-Associate.png"></code>
-<code><img width="105px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Data-Engineer-Associate.png"></code>
-<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Professional.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Cloud-Practitioner.png"/></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Developer-Associate.png"/></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Associate.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-SysOps-Administrator-Associate.png"></code>
+<code><img width="95px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Data-Engineer-Associate.png"></code>
+<code><img width="80px" src="https://github.com/bdmoriki/bdmoriki/blob/main/img/AWS-Solutions-Architect-Professional.png"></code>
 
 <br>
 
